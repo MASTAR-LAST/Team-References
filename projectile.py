@@ -1,29 +1,35 @@
-from math import sin, cos, tan, sqrt
+"""
+Made by: Muhammed Alkohawaldeh
 
-def projectile(start_velocity, air, mass, theta):
+This code was made for educational purposes
+"""
+from math import sin, cos, radians
+from decimal import Decimal
+
+def projectile(*, start_velocity: float, air_resistance: float, theta: int):
+
+     start_velocity: Decimal = Decimal(f"{start_velocity}")
+     sin_theta: Decimal = Decimal(f"{sin(radians(theta))}")
+     cos_theta: Decimal = Decimal(f"{cos(radians(theta))}")
+     two: Decimal = Decimal('2')
+     half: Decimal = Decimal('0.5')
+     g: Decimal = Decimal('9.78033') # gravity constent
+
+
+     start_velocity_y: Decimal = start_velocity*sin_theta
      
-     g: float = 9.78033 # gravity constent
-     
-     R: float = (start_velocity**2)*sin(2*theta) # horizontal_distance
+     R: Decimal = (two*start_velocity**two*sin_theta*cos_theta)/g # horizontal_distance
 
-     H: float = ((start_velocity*(sin(theta)))**2)/2*g # maximum_height
+     H: Decimal = (half*(start_velocity**two*(sin_theta)**two))/g # maximum_height
 
-     t: float = (start_velocity*sin(theta))/g # maximum_height_time
+     T: Decimal = (two*start_velocity_y*sin_theta)/g # Flight Time
 
-     T: float = 2*t
+     t: Decimal = half*T # maximum_height_time
 
-     if R < 0:
-          R *= -1
-     if H < 0:
-          H *= -1
-     if t < 0:
-          t *= -1
-     if T < 0:
-          T *= -1
+     print(f"Y Start Velocity: {start_velocity_y:.3f} m/s")
+     print(f"Maximum Height: {H:.3f} m")
+     print(f"Maximum Height in: {t:.3f} s")
+     print(f"Horizontal Distance: {R:.3f} m")
+     print(f"Flight Time: {T:.3f} s")
 
-     print(f"Maximum Height: {H:.3f}m")
-     print(f"Maximum Height in: {t:.3f}s")
-     print(f"Horizontal Distance: {R:.3f}m")
-     print(f"Flight Time: {T:.3f}s")
-
-projectile(2, 23, 23, 23, 60)
+projectile(start_velocity=28, air_resistance=23, theta=19.3)
