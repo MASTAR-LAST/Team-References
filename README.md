@@ -3,7 +3,7 @@
     - [Requirements 🖥](#requirements-for-robots-🖥)
     - [Pre-build projects 🛠](#pre-build-projects-for-robots-🛠)
     - [Tutorials 👨‍💻](#tutorials-for-robots-👨‍💻)
-    - [Github repos 👥](#githup-repos-for-robots)
+    - [Github repos 👥](#githup-repos-for-robots-👥)
 
 2. **Games Development 👾**
     - [Requirements 🖥](#requirements-for-games-🖥)
@@ -123,7 +123,7 @@
 
 - [TOP 10 Arduino Projects Of All Time](https://www.youtube.com/watch?v=-p_8u_0GNZE&ab_channel=THEELECTRONICGUY)
 
-## Githup Repos for robots
+## Githup Repos for robots 👥
 ---
 - [Universal Robot](https://github.com/ros-industrial/universal_robot)
 - [ros_arduino_bridge](https://github.com/hbrobotics/ros_arduino_bridge)
