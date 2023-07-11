@@ -8,7 +8,7 @@
 2. **Games Development 👾**
     - [Requirements 🖥](#requirements-for-games-🖥)
     - [Pre-build projects 🛠]()
-    - [Tutorials 👨‍💻]()
+    - [Tutorials 👨‍💻](#tutorials-for-games-👨‍💻)
     - [Github repos 👥]()
 
 
@@ -20,8 +20,8 @@
 
 1. **ROS (Operating system) [[Website]](https://www.ros.org) --- {[wiki](https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%B1%D9%88%D8%A8%D9%88%D8%AA_ROS)}** * Single *
 2. **Gazebo (3D robotics simulator) [[Website]](https://gazebosim.org/home) --- {[wiki](https://en.wikipedia.org/wiki/Gazebo_simulator)}** * Single *
-3. **Raspberry Pi (small single-board computers) [[Website]](https://www.raspberrypi.com) --- {[wiki](https://en.wikipedia.org/wiki/Raspberry_Pi)}** * Duplicate Arduino*
-4. **Arduino (small single-board computers) [[Website]](https://www.arduino.cc/) --- {[wiki](https://en.wikipedia.org/wiki/Arduino)}** * Duplicate with Raspaberry Pi*
+3. **Raspberry Pi (small single-board computers) [[Website]](https://www.raspberrypi.com) --- {[wiki](https://en.wikipedia.org/wiki/Raspberry_Pi)}** * Duplicate *
+4. **Arduino (small single-board computers) [[Website]](https://www.arduino.cc/) --- {[wiki](https://en.wikipedia.org/wiki/Arduino)}** * Duplicate *
 5. **Ubuntu LTS (Operating system) [[Website]](https://ubuntu.com) --- {[wiki](https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88)}** * Single *
 6. **Git (distributed version control system) [[Website]](https://git-scm.com) --- {[wiki](https://en.wikipedia.org/wiki/Git)}** * Single *
 
@@ -133,6 +133,58 @@
 ## Requirements for games 🖥
 ---
 > **Form:** **NAME (DESCRIPTION) [COMPANY WEBSITE] --- {WIKIPEDIA REFERENCE - AR/EN} * STATUS***
+
+1. **Unity (game engine) [[Website]](https://unity.com) --- {[wiki](https://en.wikipedia.org/wiki/User:Matthewpruitt/Unity_(game_engine))}** * Duplicate*
+
+2. **Unreal Engine (game engine) [[Website]](https://www.unrealengine.com/en-US) --- {[wiki](https://en.wikipedia.org/wiki/Unreal_Engine)}** * Duplicate*
+
+3. **Godot (game engine) [[Website]](https://godotengine.org/) --- {[wiki](https://en.wikipedia.org/wiki/Godot_(game_engine))}** * Duplicate*
+
+
+## Tutorials for Games 👨‍💻
+
+1. **Unity**
+    - Arabic
+        - [Unity 2D Game || برمجة الألعاب من الصفر](https://www.youtube.com/playlist?list=PLltZRmsFXWnLp98IIM1CISQYWowq87YSp)
+        - [تعلم يونتي بسهولة | UNITY](https://www.youtube.com/playlist?list=PLrJbTtxW9RROGIPWyMmd20Bn-970_vSAF)
+    
+    - English
+        - [Complete Game Tutorials](https://www.youtube.com/playlist?list=PLqlFiJjSZ2x39Qc0yj73Myixt8jmDUBNk)
+    
+    - Documentation
+        - [Main Documentation](https://docs.unity.com/)
+
+2. **Unreal Engine**
+    - Arabic
+        - [كيف تسوي لعبة عربية كورس [ انريل انجن 5 ]](https://www.youtube.com/watch?v=ciR0escx2n4&ab_channel=omar8-BIT)
+        - [دورة تصميم لعبة المدينة المحتلة Unreal Engine 5](https://www.youtube.com/watch?v=ciR0escx2n4&ab_channel=omar8-BIT)
+    
+    - English
+        - [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course](https://www.youtube.com/watch?v=k-zMkzmduqI&ab_channel=UnrealSensei)
+        - [Unreal Engine 5 Beginner Tutorials](https://www.youtube.com/playlist?list=PLncmXJdh4q88DFCEVuGpOY3AGQwBvoQnh)
+        - [Unreal Engine 5 RPG Tutorial Series](https://www.youtube.com/watch?v=FNTyIWkv5k8&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&ab_channel=GorkaGames)
+    
+    - Documentation
+        - [Main Documentation](https://docs.unrealengine.com/5.2/en-US/)
+
+3. **Godot**
+    - Arabic
+        - [كيف تصنع أول لعبة لك اليوم ! | Godot](https://www.youtube.com/watch?v=Tbg-kTYYk8M&ab_channel=%D8%B3%D9%88%D8%A8%7CSop)
+    
+    - English
+        - [Godot 3 Tutorial Series](https://www.youtube.com/playlist?list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ)
+        - [Getting Started with the Godot Game Engine in 2021](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa)
+        - [Code a 3D RPG Action Game – Godot GameDev Tutorial](https://www.youtube.com/watch?v=F2TL525KkiM&ab_channel=freeCodeCamp.org)
+    
+    - Documentation
+        - [Main Documentation](https://docs.godotengine.org/en/stable/)
+
+
+# Usefull Urls For Game Development
+
+1. [The ultimate guide to character design in video games](https://mainleaf.com/the-ultimate-guide-to-character-design-in-video-games/)
+2. [Game Design Document Template and Examples](https://www.nuclino.com/articles/game-design-document-template)
+3. [Unity vs Unreal: Which Engine Should You Choose As A Beginner](https://www.youtube.com/watch?v=ZG9MF5agh7A&ab_channel=AwesomeTuts-AnyoneCanLearnToMakeGames)
 
 
 ### **Author: Muhammed Alkohawaldeh 📓✍️**
